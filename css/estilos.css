@@ -2,11 +2,12 @@ body
 {
     color: #333;
     text-align: left;
-    font-family: courier;
+    font-family: arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
+
 #cabecera
 {
     background: #33A;
