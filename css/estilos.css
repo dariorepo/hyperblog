@@ -1,6 +1,6 @@
 body
 {
-    background: #1e1f24;
+    background: #4a4b4d;
     color: #333;
     text-align: left;
     font-family: arial;
@@ -21,7 +21,7 @@ body
 
 #cabecera #logo
 {
-    width: 20px;
+    width: 100px;
     vertical-align: middle;
 }
 
@@ -41,7 +41,7 @@ body
     margin:0 auto;
 }
 
-#container h1
+#container
 {
     font-size: 20px;
 }
